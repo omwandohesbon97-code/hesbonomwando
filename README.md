@@ -1,0 +1,2 @@
+# hesbonomwando
+deriv trading bot 
